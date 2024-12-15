@@ -1,4 +1,4 @@
-### **Project Name: Interactive Dashboard for Data Analytics**
+# Interactive Dashboard for Data Analytics**
 
 #### **1. Overview**
 - **Objective:** Create an interactive Excel dashboard to analyze and visualize data for decision-making.
@@ -101,7 +101,7 @@ Include:
 
 #### **11. Link to Project**
 - [Google Drive/Portfolio Link](#) (Upload screenshots or files here.)
-- GitHub Repository: *(If applicable)*
+- [GitHub Repository ](https://github.com/praks7v/Intractive-Dashboard-for-Data-Analysis)
 
 #### **12. Conclusion**
 This project demonstrates my ability to handle data analysis and dashboard creation in Excel, making me proficient in end-to-end analytics workflows.
