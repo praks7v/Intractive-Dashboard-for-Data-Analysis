@@ -1,5 +1,3 @@
----
-
 ### **Project Name: Interactive Dashboard for Data Analytics**
 
 #### **1. Overview**
@@ -109,5 +107,3 @@ Include:
 This project demonstrates my ability to handle data analysis and dashboard creation in Excel, making me proficient in end-to-end analytics workflows.
 
 ---
-
-By documenting your project this way, you'll effectively convey your skills and project workflow to recruiters, colleagues, or clients. You can also tailor this document for your resume or portfolio!
