@@ -103,7 +103,7 @@ Include:
 
 ---
 #### **12. Link to Project**
-- [Google Drive/Portfolio Link](#) (Upload screenshots or files here.)
+- [Google Drive/Project Link](https://drive.google.com/drive/folders/1ARlwFBxFmMDfEzGfu0ksU2NJuEJhmDZs?usp=drive_link)
 - [GitHub Repository ](https://github.com/praks7v/Intractive-Dashboard-for-Data-Analysis)
 
 #### **13. Conclusion**
