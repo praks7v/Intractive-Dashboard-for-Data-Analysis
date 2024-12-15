@@ -98,12 +98,15 @@ Include:
 - Expand skills to tools like Tableau and Power BI for advanced dashboards.
 
 ---
+#### **11. Screenshot**
+![Road Accident Dashbaord](Images/road_accident_dashboard.jpeg)
 
-#### **11. Link to Project**
+---
+#### **12. Link to Project**
 - [Google Drive/Portfolio Link](#) (Upload screenshots or files here.)
 - [GitHub Repository ](https://github.com/praks7v/Intractive-Dashboard-for-Data-Analysis)
 
-#### **12. Conclusion**
+#### **13. Conclusion**
 This project demonstrates my ability to handle data analysis and dashboard creation in Excel, making me proficient in end-to-end analytics workflows.
 
 ---
