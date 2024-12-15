@@ -1,4 +1,4 @@
-# Interactive Dashboard for Data Analytics**
+# Interactive Dashboard for Data Analytics
 
 #### **1. Overview**
 - **Objective:** Create an interactive Excel dashboard to analyze and visualize data for decision-making.
